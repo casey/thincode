@@ -1,0 +1,27 @@
+html {
+  background: black;
+  color: white;
+  font-family: monospace, monospace;
+}
+
+td:nth-child(2) {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+td:nth-child(3) {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+td:nth-child(4) {
+  text-align: right;
+}
+
+td:nth-child(5) {
+  text-align: right;
+}
+
+td:nth-child(6) {
+  text-align: right;
+}
